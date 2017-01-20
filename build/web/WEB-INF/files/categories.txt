@@ -1,0 +1,6 @@
+1;Consolas
+2;Videojuegos
+3;SmartPhones
+4;Tablets
+5;Portatiles
+6;Ordenadores

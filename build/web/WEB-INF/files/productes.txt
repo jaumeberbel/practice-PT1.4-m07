@@ -1,0 +1,6 @@
+01;Ps4;Consola de ultima generacion desarrollada por Sony;350;1
+02;God of War IV;Ultimo juego de la franquicia GOW;70;2
+03;Samsung s8;Smartphone de Samsung con version 6.0 de android;700;3
+04;Ipad Pro;Tablet de 10 pulgadas de la marca Apple;600;4
+05;Php;Portatil con 8GB de RAM;680;5
+06;MSI;Ordenador con la mejor tarjeta gráfica;1200;6  
